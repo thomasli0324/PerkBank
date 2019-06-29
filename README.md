@@ -73,9 +73,11 @@ There are some fields you need to input to process to the next step.
 # Further improvement in the future
  
 1.Stock
+
 At this stage , our app only shows some information of the stock. In the future development, our users can obtain real-time information about the stock market so they can trade or plan for their investment in our app.
 
 2.Currency 
+
 At this stage , the currency interface only shows the information of the currency exchange rate against HKD. In the future development , our users can obtain real-time information about the exchange rate in any currency. 
 
 
