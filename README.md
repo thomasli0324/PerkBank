@@ -101,27 +101,4 @@ Now, click Confirm button in the app and your transaction order will be stored i
 
 <img width="1432" alt="Screenshot 2019-06-29 at 3 53 00 PM" src="https://user-images.githubusercontent.com/49776836/60381347-06aff200-9a86-11e9-803f-7edce4006e06.png">
 
- 
- 
- 
-# Further improvement in the future
- 
-1.Stock
-
-At this stage , our app only shows some information of the stock. 
-
-In the future development, our users can obtain real-time information about the stock market so they can trade or plan for their investment in our app.
-
-2.Currency 
-
-At this stage , the currency interface only shows the information of the currency exchange rate against HKD. 
-
-In the future development , our users can obtain real-time information about the exchange rate in any currency. 
-
-3.Security 
-
-Security is the most important element when it comes to money.  
-
-We should introduce more secure tools such as FaceID or One-time password to verify the user identity before he/she makes transaction.
-
 
