@@ -67,6 +67,9 @@ Stock button leads you to the interface where it shows information of the stock.
 # Currency 
 Currency button leads you to the interface where you can obtain information about the currency exchange rate against Hong Kong Dollar.
 
+<img width="369" alt="Screenshot 2019-06-29 at 3 46 50 PM" src="https://user-images.githubusercontent.com/49776836/60381306-24308c00-9a85-11e9-9e2d-5bb08fc08dcc.png">
+
+
 # Order [Important]
 Now you can check on the order button , a form will automatically display in the simulator.
 There are some fields you need to input to process to the next step.
