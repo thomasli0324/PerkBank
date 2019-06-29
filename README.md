@@ -52,6 +52,7 @@ You can check on the functionality of this app by clicking the button on top-rig
 3. Currency
 4. Order 
 
+<img width="373" alt="Screenshot 2019-06-29 at 3 37 11 PM" src="https://user-images.githubusercontent.com/49776836/60381221-d404fa00-9a83-11e9-9a06-61b83aee0bda.png">
 
 # Home 
 Home button displays your personal account information such as your perkbank account and its balance
