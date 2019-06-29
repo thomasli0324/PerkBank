@@ -29,6 +29,8 @@ Walk-through guide for Perkbank iOS app
 
 5. Drag and drop the GoogleService-Info.plist under the PerkBank.
 
+<img width="215" alt="Screenshot 2019-06-29 at 4 14 44 PM" src="https://user-images.githubusercontent.com/49776836/60381550-0f55f780-9a89-11e9-98d7-c82b239f9dbd.png">
+
 6. Now your Xcode environment will look like.
 
 # Running the app in simulator 
