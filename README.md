@@ -10,10 +10,13 @@ Walk-through guide for Perkbank iOS app
         a. Open App-store in your computer 
         b. Search for Xcode 
            
-3. To download the PerkBankPay zip file and GoogleService-Info.plist here.
+3. To download this resposity , click clone or download.
 
 # Setting up the environment
 1. After you have downloaded the source files , you may need to unzip it.
+
+<img width="771" alt="Screenshot 2019-06-29 at 4 12 08 PM" src="https://user-images.githubusercontent.com/49776836/60381523-b2f2d800-9a88-11e9-8f18-e6e18636a071.png">
+
 2. Now you may see the files contain 
 
 <img width="771" alt="Screenshot 2019-06-29 at 3 28 30 PM" src="https://user-images.githubusercontent.com/49776836/60381155-c26f2280-9a82-11e9-898b-2a90d4f4195b.png">
