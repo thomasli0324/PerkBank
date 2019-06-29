@@ -26,8 +26,6 @@ Walk-through guide for Perkbank iOS app
 
 5. Drag and drop the GoogleService-Info.plist under the PerkBank.
 
-
-
 6. Now your Xcode environment will look like.
 
 # Running the app in simulator 
@@ -62,6 +60,8 @@ Home button displays your personal account information such as your perkbank acc
 
 # Stock
 Stock button leads you to the interface where it shows information of the stock.
+
+<img width="375" alt="Screenshot 2019-06-29 at 3 40 11 PM" src="https://user-images.githubusercontent.com/49776836/60381249-33fba080-9a84-11e9-886b-82c8ac41cc0d.png">
 
 
 # Currency 
