@@ -94,11 +94,6 @@ For convenience purpose , type
                 1234
 
 <img width="378" alt="Screenshot 2019-06-29 at 3 49 10 PM" src="https://user-images.githubusercontent.com/49776836/60381320-86898c80-9a85-11e9-94e4-5fa72873acb4.png">
-
-After you have finished filling in the above fields , you need to input an one-time password.
-For convenience purpose , type 
- 
-                1234
                 
 Now, click Confirm button in the app and your transaction order will be stored in our database.
 <img width="373" alt="Screenshot 2019-06-29 at 3 49 20 PM" src="https://user-images.githubusercontent.com/49776836/60381321-87bab980-9a85-11e9-866b-6ac0ef321c13.png">
