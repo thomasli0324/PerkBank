@@ -82,7 +82,7 @@ Currency button leads you to the interface where you can obtain information abou
 
 # Order [Important]
 Now you can check on the order button , a form will automatically display in the simulator.
-There are some fields you need to input to process to the next step.
+There are some fields you need to input to proceed to the next step.
 
                 1. Account Name 
                 2. Account Number 
