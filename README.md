@@ -57,8 +57,12 @@ You can check on the functionality of this app by clicking the button on top-rig
 # Home 
 Home button displays your personal account information such as your perkbank account and its balance
 
+<img width="375" alt="Screenshot 2019-06-29 at 3 38 37 PM" src="https://user-images.githubusercontent.com/49776836/60381237-03b40200-9a84-11e9-8b37-113bd147f3d8.png">
+
+
 # Stock
 Stock button leads you to the interface where it shows information of the stock.
+
 
 # Currency 
 Currency button leads you to the interface where you can obtain information about the currency exchange rate against Hong Kong Dollar.
