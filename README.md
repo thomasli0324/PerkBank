@@ -10,7 +10,7 @@ Walk-through guide for Perkbank iOS app
         a. Open App-store in your computer 
         b. Search for Xcode 
            
-3. To download this resposity , click clone or download.
+3. To download this repository , click clone or download.
 
 <img width="986" alt="Screenshot 2019-06-29 at 4 17 40 PM" src="https://user-images.githubusercontent.com/49776836/60381567-770c4280-9a89-11e9-9992-1b5db17e5142.png">
 
@@ -19,7 +19,7 @@ Walk-through guide for Perkbank iOS app
 
 <img width="771" alt="Screenshot 2019-06-29 at 4 12 08 PM" src="https://user-images.githubusercontent.com/49776836/60381523-b2f2d800-9a88-11e9-8f18-e6e18636a071.png">
 
-2. Now you may see the files contain 
+2. Now you may see the files 
 
 <img width="771" alt="Screenshot 2019-06-29 at 3 28 30 PM" src="https://user-images.githubusercontent.com/49776836/60381155-c26f2280-9a82-11e9-898b-2a90d4f4195b.png">
 
@@ -54,6 +54,7 @@ Now click login , your personal account number and balance will be shown.
 
 # Functionality 
 You can check on the functionality of this app by clicking the button on top-right corner. It is a slide-in menu
+
 1. Home 
 2. Stock 
 3. Currency
@@ -92,8 +93,8 @@ There are some fields you need to input to process to the next step.
                 7. Beneficiary Name
                 8. Beneficiary's bank 
               
-                
- <img width="378" alt="Screenshot 2019-06-29 at 3 48 12 PM" src="https://user-images.githubusercontent.com/49776836/60381318-81c4d880-9a85-11e9-951d-2873226b5aac.png">
+              
+<img width="378" alt="Screenshot 2019-06-29 at 3 48 12 PM" src="https://user-images.githubusercontent.com/49776836/60381318-81c4d880-9a85-11e9-951d-2873226b5aac.png">
  
 <img width="372" alt="Screenshot 2019-06-29 at 3 48 27 PM" src="https://user-images.githubusercontent.com/49776836/60381319-84bfc900-9a85-11e9-81fc-e619deff8569.png">
 
