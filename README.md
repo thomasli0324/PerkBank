@@ -12,6 +12,8 @@ Walk-through guide for Perkbank iOS app
            
 3. To download this resposity , click clone or download.
 
+<img width="986" alt="Screenshot 2019-06-29 at 4 17 40 PM" src="https://user-images.githubusercontent.com/49776836/60381567-770c4280-9a89-11e9-9992-1b5db17e5142.png">
+
 # Setting up the environment
 1. After you have downloaded the source files , you may need to unzip it.
 
