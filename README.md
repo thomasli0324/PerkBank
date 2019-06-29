@@ -82,13 +82,27 @@ There are some fields you need to input to process to the next step.
                 6. Beneficiary Account Number 
                 7. Beneficiary Name
                 8. Beneficiary's bank 
+              
+                
+ <img width="378" alt="Screenshot 2019-06-29 at 3 48 12 PM" src="https://user-images.githubusercontent.com/49776836/60381318-81c4d880-9a85-11e9-951d-2873226b5aac.png">
  
- After you have finished filling in the above fields , you need to input an one-time password.
- For convenience purpose , type 
+<img width="372" alt="Screenshot 2019-06-29 at 3 48 27 PM" src="https://user-images.githubusercontent.com/49776836/60381319-84bfc900-9a85-11e9-81fc-e619deff8569.png">
+
+After you have finished filling in the above fields , you need to input an one-time password.
+For convenience purpose , type 
+ 
+                1234
+
+<img width="378" alt="Screenshot 2019-06-29 at 3 49 10 PM" src="https://user-images.githubusercontent.com/49776836/60381320-86898c80-9a85-11e9-94e4-5fa72873acb4.png">
+
+After you have finished filling in the above fields , you need to input an one-time password.
+For convenience purpose , type 
  
                 1234
                 
- Now, click Confirm button in the app and your transaction order will be stored in our database.
+Now, click Confirm button in the app and your transaction order will be stored in our database.
+<img width="373" alt="Screenshot 2019-06-29 at 3 49 20 PM" src="https://user-images.githubusercontent.com/49776836/60381321-87bab980-9a85-11e9-866b-6ac0ef321c13.png">
+ 
  
  
 # Further improvement in the future
