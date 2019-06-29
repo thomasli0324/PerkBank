@@ -36,7 +36,7 @@ Walk-through guide for Perkbank iOS app
 # Running the app in simulator 
 1. After you have set up the simulator , you can build the app by clicking 
 
-        Ctrl + B 
+        Command + B 
         
 2. Then run the app by clicking the arrow button
 
