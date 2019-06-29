@@ -74,11 +74,22 @@ There are some fields you need to input to process to the next step.
  
 1.Stock
 
-At this stage , our app only shows some information of the stock. In the future development, our users can obtain real-time information about the stock market so they can trade or plan for their investment in our app.
+At this stage , our app only shows some information of the stock. 
+
+In the future development, our users can obtain real-time information about the stock market so they can trade or plan for their investment in our app.
 
 2.Currency 
 
-At this stage , the currency interface only shows the information of the currency exchange rate against HKD. In the future development , our users can obtain real-time information about the exchange rate in any currency. 
+At this stage , the currency interface only shows the information of the currency exchange rate against HKD. 
+
+In the future development , our users can obtain real-time information about the exchange rate in any currency. 
+
+3.Security 
+
+Security is the most important element when it comes to money.  
+
+We should introduce more secure tools such as FaceID or One-time password to verify the user identity before he/she makes transaction.
+
 
 
 
