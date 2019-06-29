@@ -15,9 +15,15 @@ Walk-through guide for Perkbank iOS app
 # Setting up the environment
 1. After you have downloaded the source files , you may need to unzip it.
 2. Now you may see the files contain 
+
+<img width="771" alt="Screenshot 2019-06-29 at 3 28 30 PM" src="https://user-images.githubusercontent.com/49776836/60381155-c26f2280-9a82-11e9-898b-2a90d4f4195b.png">
+
 3. Open the PerkBank.xcworkspace 
+
 4. Set up the simulator as iphone X , iphone Xs , iphone Xs Max or iphone XR
+
 5. Drag and drop the GoogleService-Info.plist under the PerkBank.
+
 6. Now your Xcode environment will look like.
 
 # Running the app in simulator 
