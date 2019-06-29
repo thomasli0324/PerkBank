@@ -41,7 +41,9 @@ For convenience purpose , i helped you to create an account in Firebase so you d
         ubstest@perkbank.com
         123456
         
-Now you can see the home page , your personal account number and balance will be shown
+<img width="377" alt="Screenshot 2019-06-29 at 3 35 42 PM" src="https://user-images.githubusercontent.com/49776836/60381212-97d19980-9a83-11e9-821f-75e3325f8c02.png">
+
+Now click login , your personal account number and balance will be shown.
 
 # Functionality 
 You can check on the functionality of this app by clicking the button on top-right corner. It is a slide-in menu
@@ -49,6 +51,7 @@ You can check on the functionality of this app by clicking the button on top-rig
 2. Stock 
 3. Currency
 4. Order 
+
 
 # Home 
 Home button displays your personal account information such as your perkbank account and its balance
