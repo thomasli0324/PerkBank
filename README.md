@@ -113,9 +113,11 @@ For convenience purpose , type
 
 <img width="378" alt="Screenshot 2019-06-29 at 3 49 10 PM" src="https://user-images.githubusercontent.com/49776836/60381320-86898c80-9a85-11e9-94e4-5fa72873acb4.png">
                 
-Now, click Confirm button in the app and your transaction order will be stored in our database.
+Now, click Confirm button in the app.
 
 <img width="373" alt="Screenshot 2019-06-29 at 3 49 20 PM" src="https://user-images.githubusercontent.com/49776836/60381321-87bab980-9a85-11e9-866b-6ac0ef321c13.png">
+
+Your transaction order will be stored in our database and it will be uploaded to the cloud.
 
 <img width="1432" alt="Screenshot 2019-06-29 at 3 53 00 PM" src="https://user-images.githubusercontent.com/49776836/60381347-06aff200-9a86-11e9-803f-7edce4006e06.png">
 
