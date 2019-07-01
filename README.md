@@ -6,8 +6,10 @@ Walk-through guide for Perkbank iOS app
 # Purpose 
 To handle the client's request in a more convenient way
 
-# Notes
-This prototype is just for demonstration , some security tools such as OTP or FaceID are not included in the source code.
+# Assumption
+There are some features like OTP or FaceID are not included in the source code . 
+
+You may see there will be a button asking you to enter OTP and it is just for demonstration.
 
 # Prerequisite
 1. A MacBook or iMac
